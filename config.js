@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
-global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
-global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.owner = ['916291588399','']
+global.premium = ['17058063501','918188019676']
+global.botname = 'DARK DEEP BOT'
+global.ownername = '☬𝕯𝖊𝖊𝖕𝖉𝖎𝖆☬'
+global.group1 = 'https://chat.whatsapp.com/BcYj8VI2IQZIDQw6oAamRk'
+global.group2 = 'https://chat.whatsapp.com/BcYj8VI2IQZIDQw6oAamRk'
+global.packname = 'DARK DEEP BOT'
+global.ytchannel = 'https://www.youtube.com/channel/UCu-TyFlJEIRY_15lg7FlpGA'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -65,7 +65,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = 'DARK DEEP BOT'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -97,8 +97,9 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')  
 global.bc = fs.readFileSync('./lib/bc.jpg')
-global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
-global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.visoka = { url: 'https://i.imgur.com/Lbmhttps://i.imgur.com/LbmTdhf.mp4Tdhf.mp4' }
+global.vid = { url: 'httphttps://i.imgur.com/LbmTdhf.mp4' }
+s://i.imgur.com/LbmTdhf.mp4' }
 
 //—————「 Set Random Image Menu 」—————//
 
