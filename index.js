@@ -131,14 +131,14 @@ let feler = pickRandom(doku)
                 try {
                     ppuser = await ZimBotInc.profilePictureUrl(num, 'image')
                 } catch {
-                    ppuser = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
+                    ppuser = 'https://telegra.ph/file/78104dbfeb6f03b2ce3c7.jpg'
                 }
 
                 // Get Profile Picture Group
                 try {
                     ppgroup = await ZimBotInc.profilePictureUrl(anu.id, 'image')
                 } catch {
-                    ppgroup = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
+                    ppgroup = 'https://telegra.ph/file/78104dbfeb6f03b2ce3c7.jpg'
                 }
 
                 if (anu.action == 'add') {
